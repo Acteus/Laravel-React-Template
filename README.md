@@ -21,7 +21,7 @@ A full-stack application template using Laravel 11 for the backend API and React
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Acteus/Laravel-React-Template
    cd laravel-react-template
    ```
 
