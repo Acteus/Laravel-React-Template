@@ -19,13 +19,7 @@ A full-stack application template using Laravel 11 for the backend API and React
 
 ## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Acteus/Laravel-React-Template
-   cd laravel-react-template
-   ```
-
-2. **Backend Setup**:
+1. **Backend Setup**:
    - Install PHP dependencies:
      ```bash
      composer install
@@ -61,7 +55,7 @@ A full-stack application template using Laravel 11 for the backend API and React
      ```
      The API will be available at `http://localhost:8000`.
 
-3. **Frontend Setup**:
+2. **Frontend Setup**:
    - Navigate to the frontend directory:
      ```bash
      cd frontend
